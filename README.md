@@ -10,7 +10,7 @@ Right now I'm at **MGB (Mad Genius Blink)**, designing and building for [BlocLab
 | --- | --- | --- |
 | [FabricBloc](https://fabricbloc.com) | Enterprise blockchain platform | Product design, from user flows to high-fidelity UI |
 | [BlocLabs](https://bloclabs.com) | Website for a blockchain and AI product studio | Redesign, then a rebuild in Webflow with a CMS |
-| [Key3](https://key3.io) | Mobile keyboard for sending crypto | End-to-end mobile app design |
+| [Keyflo](https://keyflo.app) | Mobile keyboard for sending crypto | End-to-end mobile app design |
 | [ViewFi](https://viewfi.io) | Reward-based video ads | Led product design; onboarding redesign cut setup time by 30% |
 
 ### What I work with
